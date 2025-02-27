@@ -26,3 +26,4 @@
 </picture>
 
 ## Você também me encontra em: 
+<img src ="https://img.shields.io/badge/linkedin-%23007785.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
