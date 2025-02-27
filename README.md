@@ -1,7 +1,7 @@
 ## Olá! Sou Fernanda Castro Dias 👋
 
-- 👩🏼‍💻 Hoje trabalho com Front-end <br />
-- 💻 Estudando Back-end e Mobile <br />
+- 👩🏼‍💻 Hoje trabalho com **Front-end** <br />
+- 💻 Estudando/Atualizando **Back-end** e **Mobile** <br />
 - 👩🏼 Pronouns: ela/dela
 
 <div>
