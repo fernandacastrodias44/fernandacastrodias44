@@ -26,4 +26,6 @@
 </picture>
 
 ## Você também me encontra em: 
+<a href="https://www.linkedin.com/in/fernanda-castro-dias">
 <img src ="https://img.shields.io/badge/linkedin-%23007785.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
